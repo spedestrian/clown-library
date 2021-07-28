@@ -35,12 +35,12 @@ The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 - [YouTube](#youtube)
 
 # Blackout
-[Back to Top](#table-of-contents)
-A Sonic the Hedgehog fanfic that David wrote when he was a child. He famously chimped out when he posted it to bungie.org and didn't receive any responses within 8 hours.<br>
+[Back to Top](#table-of-contents)</br>
+A Sonic the Hedgehog fanfic that David wrote when he was a child. He famously chimped out when he posted it to bungie.org and didn't receive any responses within 8 hours.</br>
 [Download (TXT)](Blackout.txt)
 
 # Revanchism
-[Back to Top](#table-of-contents)
+[Back to Top](#table-of-contents)</br>
 David's cringy grimdark My Little Pony fanfiction. He's still writing new chapters of this even though he's 30 goddamn years old:</br>
 [Download Chapters 1-23 (TXT)](Revanchism.txt)</br>
 [Download Chapters 1-23 (HTML)](Revanchism.html)</br>
