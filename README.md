@@ -3,8 +3,8 @@
 The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 
 # Table of Contents
-- [4chan & 9chan](#4chan-9chan)
-- [Bungie.org](#bungie-org)
+- [4chan & 9chan](#4chan--9chan)
+- [Bungie.org](#bungieorg)
 - [Derpibooru](#derpibooru)
 - [DeviantArt](#deviantart)
 - [Digital Wild West](#digital-wild-west)
@@ -12,7 +12,7 @@ The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 - [Fanfiction](#fanfiction)
 - [Fimfiction](#fimfiction)
 - [Frozen in Carbonite](#frozen-in-carbonite)
-- [GameFAQs & Gamespot](#gamefaqs-gamespot)
+- [GameFAQs & Gamespot](#gamefaqs--gamespot)
 - [Gizmodo](#gizmodo)
 - [Jezebel](#jezebel)
 - [Kinja](#kinja)
