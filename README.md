@@ -3,6 +3,11 @@
 The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 
 # Table of Contents
+**Media Archives**
+- [Blackout](#blackout)
+- [Revanchism](#revanchism)</br>
+
+**Website Archives**
 - [4chan & 9chan](#4chan--9chan)
 - [Bungie.org](#bungieorg)
 - [Derpibooru](#derpibooru)
@@ -16,7 +21,7 @@ The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 - [Gizmodo](#gizmodo)
 - [Jezebel](#jezebel)
 - [Kinja](#kinja)
-- [Kiwi Farms](#kiwifarms)
+- [Kiwi Farms](#kiwi-farms)
 - [Kotaku](#kotaku)
 - [Miscellaneous](#miscellaneous)
 - [Questionable Questing](#questionable-questing)
@@ -28,6 +33,19 @@ The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 - [Twitter](#twitter)
 - [We Hunted the Mammoth](#we-hunted-the-mammoth)
 - [YouTube](#youtube)
+
+# Blackout
+[Back to Top](#table-of-contents)
+A Sonic the Hedgehog fanfic that David wrote when he was a child. He famously chimped out when he posted it to bungie.org and didn't receive any responses within 8 hours.<br>
+[Download (TXT)](Blackout.txt)
+
+# Revanchism
+[Back to Top](#table-of-contents)
+David's cringy grimdark My Little Pony fanfiction. He's still writing new chapters of this even though he's 30 goddamn years old:</br>
+[Download Chapters 1-23 (TXT)](Revanchism.txt)</br>
+[Download Chapters 1-23 (HTML)](Revanchism.html)</br>
+[Download Chapters 1-23 (ePub)](revanchism.epub)
+
 # 4chan & 9chan
 [Back to Top](#table-of-contents)
 
