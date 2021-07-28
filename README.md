@@ -16,6 +16,7 @@ The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 - [Gizmodo](#gizmodo)
 - [Jezebel](#jezebel)
 - [Kinja](#kinja)
+- [Kiwi Farms](#kiwifarms)
 - [Kotaku](#kotaku)
 - [Miscellaneous](#miscellaneous)
 - [Questionable Questing](#questionable-questing)
@@ -1356,6 +1357,71 @@ The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 | https://kinja.com/TrainDodger/discussions?startTime=1403659027341 | [Archive](https://web.archive.org/web/20200401202749/https://kinja.com/TrainDodger/discussions?startTime=1403659027341) |
 | https://kinja.com/TrainDodger/discussions?startTime=1415755359444 | [Archive](https://web.archive.org/web/20200401202724/https://kinja.com/TrainDodger/discussions?startTime=1415755359444) |
 | https://kinja.com/TrainDodger/discussions?startTime=1449777115444 | [Archive](https://web.archive.org/web/20200401202647/https://kinja.com/TrainDodger/discussions?startTime=1449777115444) |
+# Kiwi Farms
+[Back to Top](#table-of-contents)
+| Original URL | Archive |
+|--------------|---------|
+| https://kiwifarms.net/posts/6087055 | [Archive](https://archive.li/wip/yu1Fo) |
+| https://kiwifarms.net/posts/6188073/ | [Archive](https://archive.li/wip/2u0Rl) |
+| https://kiwifarms.net/posts/6206595/ | [Archive](https://archive.li/wip/CesQb) |
+| https://kiwifarms.net/posts/6206775/ | [Archive](https://archive.li/wip/XX6N1) |
+| https://kiwifarms.net/posts/6206811/ | [Archive](https://archive.li/wip/nUahJ) |
+| https://kiwifarms.net/posts/6207216/ | [Archive](https://archive.li/wip/iUDrb) |
+| https://kiwifarms.net/posts/6207472 | [Archive](https://archive.li/wip/hYGK1) |
+| https://kiwifarms.net/posts/6207874/ | [Archive](https://archive.li/wip/dcAzx) |
+| https://kiwifarms.net/posts/6210855/ | [Archive](https://archive.li/wip/DIkIR) |
+| https://kiwifarms.net/posts/6211336/ | [Archive](https://archive.li/wip/zOEhl) |
+| https://kiwifarms.net/posts/6211421/ | [Archive](https://archive.li/wip/3bpRu) |
+| https://kiwifarms.net/posts/6211457/ | [Archive](https://archive.li/wip/eIdVj) |
+| https://kiwifarms.net/posts/6211708 | [Archive](https://archive.li/wip/NYHy4) |
+| https://kiwifarms.net/posts/6214765/ | [Archive](https://archive.li/wip/Zex1D) |
+| https://kiwifarms.net/posts/6214848 | [Archive](https://archive.li/wip/8lxwC) |
+| https://kiwifarms.net/posts/6214887 | [Archive](https://archive.li/wip/wiZjt) |
+| https://kiwifarms.net/posts/6214887/ | [Archive](https://archive.li/wip/u5413) |
+| https://kiwifarms.net/posts/6214954/ | [Archive](https://archive.li/wip/bpZCv) |
+| https://kiwifarms.net/posts/6214964/ | [Archive](https://archive.li/wip/zLsS0) |
+| https://kiwifarms.net/posts/6225847/ | [Archive](https://archive.li/wip/qEtn1) |
+| https://kiwifarms.net/posts/6226093/ | [Archive](https://archive.li/wip/spiRX) |
+| https://kiwifarms.net/posts/6226509/ | [Archive](https://archive.li/wip/jijmY) |
+| https://kiwifarms.net/posts/6227016/ | [Archive](https://archive.li/wip/63kPU) |
+| https://kiwifarms.net/posts/6227943 | [Archive](https://archive.li/wip/WQuVT) |
+| https://kiwifarms.net/posts/6228512/ | [Archive](https://archive.li/wip/TygC5) |
+| https://kiwifarms.net/posts/6228684/ | [Archive](https://archive.li/wip/FXT0Y) |
+| https://kiwifarms.net/posts/6231614 | [Archive](https://archive.li/wip/fRBgx) |
+| https://kiwifarms.net/posts/6232237/ | [Archive](https://archive.li/wip/bGXdL) |
+| https://kiwifarms.net/posts/6238038/ | [Archive](https://archive.li/wip/JoB7p) |
+| https://kiwifarms.net/posts/6238098/ | [Archive](https://archive.li/wip/1APEh) |
+| https://kiwifarms.net/posts/6238103 | [Archive](https://archive.li/wip/EOwFK) |
+| https://kiwifarms.net/posts/6238103/ | [Archive](https://archive.li/wip/e2IsL) |
+| https://kiwifarms.net/posts/6238156 | [Archive](https://archive.li/wip/aly8I) |
+| https://kiwifarms.net/posts/6238156/ | [Archive](https://archive.li/wip/D03Nd) |
+| https://kiwifarms.net/posts/6239032/ | [Archive](https://archive.li/wip/f1Qxg) |
+| https://kiwifarms.net/posts/6239295/ | [Archive](https://archive.li/wip/JyRn8) |
+| https://kiwifarms.net/posts/6239329/ | [Archive](https://archive.li/wip/hls9d) |
+| https://kiwifarms.net/posts/6247597 | [Archive](https://archive.li/wip/OkXzC) |
+| https://kiwifarms.net/posts/6247750 | [Archive](https://archive.li/wip/96m0y) |
+| https://kiwifarms.net/posts/6247782 | [Archive](https://archive.li/wip/6er18) |
+| https://kiwifarms.net/posts/6254664 | [Archive](https://archive.li/wip/clWiF) |
+| https://kiwifarms.net/posts/6261898 | [Archive](https://archive.li/wip/r96JN) |
+| https://kiwifarms.net/posts/6261898/ | [Archive](https://archive.li/wip/nDcGt) |
+| https://kiwifarms.net/posts/6272403 | [Archive](https://archive.li/wip/brK5B) |
+| https://kiwifarms.net/posts/6273313 | [Archive](https://archive.li/wip/6N8HK) |
+| https://kiwifarms.net/posts/6273545 | [Archive](https://archive.li/wip/W0KcC) |
+| https://kiwifarms.net/posts/6291702 | [Archive](https://archive.li/wip/m1KxL) |
+| https://kiwifarms.net/posts/6291706 | [Archive](https://archive.li/wip/JN3wi) |
+| https://kiwifarms.net/posts/6291998 | [Archive](https://archive.li/wip/CHrbg) |
+| https://kiwifarms.net/posts/6292016 | [Archive](https://archive.li/wip/8lxwC) |
+| https://kiwifarms.net/posts/6300056 | [Archive](https://archive.li/wip/N3ZYm) |
+| https://kiwifarms.net/posts/6330814 | [Archive](https://archive.li/wip/bIIGR) |
+| https://kiwifarms.net/posts/6330887 | [Archive](https://archive.li/wip/w09MI) |
+| https://kiwifarms.net/posts/7340000 | [Archive](https://archive.li/wip/y8fhc) |
+| https://kiwifarms.net/posts/7344599 | [Archive](https://archive.li/wip/vFLHF) |
+| https://kiwifarms.net/posts/7764537 | [Archive](https://archive.li/wip/kf1we) |
+| https://kiwifarms.net/threads/wuhan-coronavirus-covid-19-analysis-summary.67656/ | [Archive](https://archive.li/DFmMs) |
+| https://kiwifarms.net/threads/wuhan-coronavirus-covid-19-analysis-summary.67656/page-4#post-6211415 | [Archive](https://archive.li/wip/gE384) |
+| https://kiwifarms.net/threads/wuhan-coronavirus-covid-19-analysis-summary.67656/post-6214765 | [Archive](https://archive.li/wip/3MR0c) |
+| https://kiwifarms.net/threads/wuhan-coronavirus-covid-19-analysis-summary.67656/post-6226509 | [Archive](https://archive.li/wip/ssPN9) |
+| https://kiwifarms.net/threads/wuhan-coronavirus-megathread.65421/post-6087055 | [Archive](https://archive.li/wip/hzfl8) |
 # Kotaku
 [Back to Top](#table-of-contents)
 
