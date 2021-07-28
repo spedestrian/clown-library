@@ -1936,18 +1936,21 @@ The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 | http://www.wehuntedthemammoth.com/2011/12/30/polling-is-open-vote-for-your-favorite-man-boobz-troll-over-there-on-the-right/comment-page-1/ | [Archive](https://archive.md/Xg3Zn) |
 # YouTube
 [Back to Top](#table-of-contents)
-
-| Original URL | Archive |
-|--------------|---------|
-| https://youtu.be/031if9DxukU | [Archive](https://archive.md/783jw) |
-| https://youtu.be/3b-8M63dwnE | [Archive](https://archive.md/MY51i) |
-| https://youtu.be/97kKuigSPzg | No Archive |
-| https://youtu.be/AEZ79dI0o08 | [Archive](https://archive.md/SWk06) |
-| https://youtu.be/AOaBrkBVQh8 | [Archive](https://archive.md/A64Au) |
-| https://youtu.be/Ibi7hpUIe2Q | [Archive](https://archive.md/2Cpjs) |
-| https://youtu.be/PG2fqsbryCQ | [Archive](https://archive.md/98l55) |
-| https://youtu.be/PhAYNot_bts | [Archive](https://archive.md/DJCIG) |
-| https://youtu.be/SROaLrEY-NQ | No Archive |
-| https://youtu.be/aLYy4HMGM_E | [Archive](https://archive.md/IpHFl) |
-| https://youtube.com/channel/UCrhIylwobp0TZ7vTfvsR-rA | [Archive](https://archive.md/8lK83) |
-| https://youtube.com/user/Spartan043/videos | [Archive](https://archive.md/bMtfu) |
+## Channel: David J.
+| Original URL | Archived Page | Archived Video |
+|--------------|---------------|----------------|
+| [David J. YouTube Channel](https://youtube.com/channel/UCrhIylwobp0TZ7vTfvsR-rA) | [Archive](https://archive.md/8lK83) | N/A |
+| [Neurotropic Virus](https://youtu.be/97kKuigSPzg) | No Page | No Video |
+| [The Virus](https://youtu.be/SROaLrEY-NQ) | No Page | [Video](https://files.catbox.moe/c45qev.mp4) |
+| [Mountain Shootin'](https://youtu.be/Ibi7hpUIe2Q) | [Archive](https://archive.md/2Cpjs) | [Video](https://files.catbox.moe/g08atv.mp4) |
+## Channel: Spartan043
+| Original URL | Archived Page | Archived Video |
+|--------------|---------------|----------------|
+| [Spartan043 YouTube Channel](https://youtube.com/user/Spartan043/videos) | [Archive](https://archive.md/bMtfu) | N/A |
+| [KSP Jetbike - Test Flight to Abandoned Airstrip](https://youtu.be/031if9DxukU) | [Archive](https://archive.md/783jw) | [Video](https://files.catbox.moe/k7ob81.mp4) |
+| [ACS Odin Walkthrough](https://youtu.be/3b-8M63dwnE) | [Archive](https://archive.md/MY51i) | [Video](https://files.catbox.moe/h0762d.mp4) |
+| [Max Payne 3 Deathmatch - Branco Headquarters - 78-20](https://youtu.be/AEZ79dI0o08) | [Archive](https://archive.md/SWk06) | [Video](https://files.catbox.moe/ppsr1r.mp4) |
+| [Halo: Reach Beta - Where is your core now?](https://youtu.be/AOaBrkBVQh8) | [Archive](https://archive.md/A64Au) | [Video](https://files.catbox.moe/opmdsg.mp4) |
+| [Typing on a Metadot Das Keyboard Ultimate](https://youtu.be/PG2fqsbryCQ) | [Archive](https://archive.md/98l55) | [Video](https://files.catbox.moe/0r59rk.mp4) |
+| [Titanfall Beta on Angel City](https://youtu.be/PhAYNot_bts) | [Archive](https://archive.md/DJCIG) | [Video](https://files.catbox.moe/fgd5p6.mp4) |
+| [Halo: Reach Beta - Swordfighter](https://youtu.be/aLYy4HMGM_E) | [Archive](https://archive.md/IpHFl) | [Video](https://files.catbox.moe/ipp89w.mp4) |
