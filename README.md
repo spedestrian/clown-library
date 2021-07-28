@@ -1,5 +1,5 @@
 # The Clown Library
-![The Clown Library](media/ClownLibrary.jpg)
+![The Clown Library](ClownLibrary.jpg)
 The full list of archived autism from halal lolcow David Andrew Jamison Jr.
 
 # Table of Contents
